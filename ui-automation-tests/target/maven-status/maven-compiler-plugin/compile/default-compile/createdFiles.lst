@@ -1,0 +1,9 @@
+pageobject\ConfluenceDashboard.class
+utility\Wait.class
+pageobject\ConfluenceCloudLogin.class
+pageobject\WikiPage.class
+pageobject\NewPageEditor.class
+pageobject\CreatePageDialog.class
+uicommon\UITestConfiguration.class
+utility\Helper.class
+pageobject\RestrictionDialog.class
